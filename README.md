@@ -8,11 +8,11 @@ A lightweight URL shortening service built with **Spring Boot** techstack that:
 ---
 ##  Features
 
-- Shortens long URLs using SHA-256 hashing  
-- Stores URL mappings in an H2 in-memory database  
-- Redirects short links to the original long URL  
-- (Optional) Sends shortened URL via email  
-- Simple REST API and optional web UI
+- shortens the lengthy URLs using SHA 256 hashing  
+- stores URL mappings in an H2 in-memory database  
+- redirects short links to the original long URL  
+- sends shortened URL via email  
+- simple REST API and web UI
 ---
 ## Tech Stack
 - Java 17
